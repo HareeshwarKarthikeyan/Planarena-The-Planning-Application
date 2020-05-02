@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_height="100dp"
+    android:background="@drawable/back2"
+    android:orientation="vertical"
+    tools:context=".EventsList"
+    >
+
+    <TextView
+        android:id="@+id/eventtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27.5dp"
+        android:fontFamily="@font/avenirnext_regular"
+        android:text="Event"
+        android:layout_marginLeft="15dp"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/eventtime"
+        android:text="Pending Completion"
+        android:layout_marginTop="1dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="#ffffff"
+        android:textSize="18dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/eventlocation"
+        android:text=""
+        android:layout_marginTop="1dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#ffffff"/>
+
+
+</LinearLayout>

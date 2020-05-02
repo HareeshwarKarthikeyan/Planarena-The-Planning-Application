@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "604704297551",
+    "firebase_url": "https://planarena-95df9.firebaseio.com",
+    "project_id": "planarena-95df9",
+    "storage_bucket": "planarena-95df9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604704297551:android:4a3413658dabb63a",
+        "android_client_info": {
+          "package_name": "com.hareeshwar_karthikeyan.planarena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604704297551-2b31ejrjsinbgn359iinf2isojmcg37c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hareeshwar_karthikeyan.planarena",
+            "certificate_hash": "ecfe3afd2958914821889c90c318f33bccd3fdc6"
+          }
+        },
+        {
+          "client_id": "604704297551-vkvcqgiahen4k68q5nv5mevr3517ltsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQY2zTdh6veblwCorfdezmm54E2DmNnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604704297551-vkvcqgiahen4k68q5nv5mevr3517ltsh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604704297551-mtd7qodlqbcva6rg0ifambp1v0dogpdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Tejas.PlanArena"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
